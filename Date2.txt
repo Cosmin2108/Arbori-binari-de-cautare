@@ -1,0 +1,15 @@
+inser
+2
+inser
+1
+inser
+5
+inser
+3
+inser
+6
+search
+3
+find_max
+delete
+5
